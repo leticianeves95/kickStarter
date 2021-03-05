@@ -1,1 +1,2 @@
-# kickStarter
+KickStarter- Analysis 
+During this module challages i faced a couples of set backs specially with the computer I got was recently new and  I wasnt used to all the programs. I usally do excel at work but its very basics such as Vlookups, sum, average and sometimes pivot tables. In Louise dataset with her give information on the history of previous data. I was able to establish the best time to launch campaignes would be in the months of May and June. The month that would would not be ideal to laucnh campaign would be in december based on the analysis i did over her overall campaigns. 
